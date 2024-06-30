@@ -11,7 +11,6 @@ Oi 👋, eu sou Wendel Araujo! Um estudante apaixonado por tecnologia.
 
 🌱 Estudante de Analise e desenvolvimento de sistemas.
 
-🔭 Estou à procura da minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar com Tecnologia e programação.
 </p>
 
 <!-- Dropdown -->
