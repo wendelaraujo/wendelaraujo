@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
   Olá Mundo
-Oi 👋, eu sou Wendel Araujo! Um estudante apaixonado por tecnologia.
+Me chamo Wendel Araujo! Um estudante apaixonado por tecnologia.
 
 🌱 Estudante de Analise e desenvolvimento de sistemas.
 
