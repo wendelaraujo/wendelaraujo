@@ -9,7 +9,7 @@
   Olá Mundo
 Oi 👋, eu sou Wendel Araujo! Um estudante apaixonado por tecnologia.
 
-🌱 Atualmente formado em Full stack na instituição Infinity School
+🌱 Estudante de Analise e desenvolvimento de sistemas.
 
 🔭 Estou à procura da minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar com Tecnologia e programação.
 </p>
@@ -17,9 +17,7 @@ Oi 👋, eu sou Wendel Araujo! Um estudante apaixonado por tecnologia.
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 saiba Mais</summary>
-Olá, meu nome é Wendel Araújo. Recentemente concluí um curso de Desenvolvimento Full Stack e estou ansioso para ingressar no mercado de trabalho nessa área. Embora ainda não tenha experiência profissional direta em desenvolvimento, tenho um forte interesse e paixão pela computação desde muito jovem.
-
-Atualmente, trabalho como motorista de aplicativo, mas estou em uma fase de transição de carreira. Meu objetivo é aplicar os conhecimentos adquiridos durante o curso para construir soluções inovadoras e eficientes no mundo da tecnologia.
+Olá, meu nome é Wendel Araújo. Atualmente Estudante de Analise e desenvolvimento de sistemas. Um Apaixonado por Tecnologias.
 
 Sou dedicado, motivado e estou sempre buscando aprender mais para me aprimorar como desenvolvedor. Estou aberto a novas oportunidades e pronto para enfrentar desafios que me permitam crescer e contribuir de forma significativa para as equipes de desenvolvimento.
   
